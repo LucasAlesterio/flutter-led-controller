@@ -10,7 +10,7 @@ An intuitive Flutter application designed for controlling generic 44-key LED lig
 - User-friendly interface
 
 **Screenshots:**
-(Insert images or links to images here)
+![Print app](img_readme/print.jpeg)
 
 **Usage Instructions:**
 1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
