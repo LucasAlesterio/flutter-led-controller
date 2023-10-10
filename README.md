@@ -9,8 +9,8 @@ An intuitive Flutter application designed for controlling generic 44-key LED lig
 - Brightness and speed adjustment
 - User-friendly interface
 
-**Screenshots:**
-![Print app](img_readme/print.jpeg)
+**Screenshot:**
+<img src="img_readme/print.jpeg" alt="Print app" width="300"/>
 
 **Usage Instructions:**
 1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
