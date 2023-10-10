@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.TRANSMIT_IR" />
     <application
-        android:label="remote_led_strip"
+        android:label="Remote Led Strip"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
